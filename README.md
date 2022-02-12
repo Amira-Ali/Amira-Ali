@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Amira-Ali
-- 👀 I’m interested in turning raw information into valuable actionable insights
-- 🌱 I’m currently learning ML with Python
-- 💞️ I’m looking to collaborate with other ML practitioners
-- 📫 How to reach me:
+ 👋 Hi, I’m @Amira-Ali
+ 👀 I’m interested in turning raw information into valuable actionable insights
+ 🌱 I’m currently learning ML with Python
+ 💞️ I’m looking to collaborate with other ML practitioners
+ 📫 How to reach me:
   
   
   <a href="https://www.linkedin.com/in/amira-shlebik-736751bb/"><img width="18" height="18" src="https://user-images.githubusercontent.com/52612361/147652538-506ab989-9ad6-4fa4-affc-74e90f49d82f.png">Amira Shlebik</a>
