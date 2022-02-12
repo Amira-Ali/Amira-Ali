@@ -1,7 +1,11 @@
  👋 Hi, I’m @Amira-Ali
+ 
  👀 I’m interested in turning raw information into valuable actionable insights
+ 
  🌱 I’m currently learning ML with Python
+ 
  💞️ I’m looking to collaborate with other ML practitioners
+ 
  📫 How to reach me:
   
   
