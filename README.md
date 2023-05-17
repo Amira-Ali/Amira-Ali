@@ -1,6 +1,6 @@
  👋 Hi, I’m @Amira-Ali
  
- 👀 I’m interested in turning raw information into valuable actionable insights
+ 👀 I’m interested in turning raw information into valuable and actionable insights!
  
  🌱 I’m currently learning ML with Python
  
