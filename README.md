@@ -2,9 +2,9 @@
  
  👀 I’m interested in turning raw information into valuable and actionable insights!
  
- 🌱 I’m currently learning ML with Python
+ 🌱 I’m currently doing MSc in data science @ Northumbria uinversity
  
- 💞️ I’m looking to collaborate with other ML practitioners
+ 💞️ I’d love to spread the knowledge acquired through hands-on projects
  
  📫 How to reach me:
   
