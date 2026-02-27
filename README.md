@@ -2,7 +2,7 @@
  
  👀 I’m interested in turning raw information into valuable and actionable insights!
  
- 🌱 I’m currently doing MSc in data science @ Northumbria uinversity
+ 🌱 I’m currently doing MSc in data science @ Northumbria university
  
  💞️ I’d love to spread the knowledge acquired through hands-on projects
  
