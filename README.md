@@ -20,9 +20,8 @@ Background in both data analytics and software engineering. I build solutions th
 **[Income Prediction +$50K](https://amira-ali.github.io/Income-Prediction-50k/)**  
 Predicts whether an individual's income exceeds $50K using census data and ML classification models in R.
 
-**Crime Hotspot Prediction across UK Police Forces**  (in progress)
-Predicting crime at LSOA level using ML models (Random Forest, XGBoost, Ensemble Stacking),  
-integrating police records, census data, and environmental factors (2015–2025).
+**Crime Hotspot Prediction across UK Police Forces (in progress)**  
+Predicting crime at LSOA level using ML models (Random Forest, XGBoost, Ensemble Stacking), integrating police records, census data, and environmental factors (2015–2025).
 
 ---
 
