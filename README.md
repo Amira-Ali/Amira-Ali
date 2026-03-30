@@ -13,6 +13,8 @@ Background in both data analytics and software engineering. I build solutions th
 - **Tools:** R Markdown, Jupyter
 
 ## 📌 Projects
+**[Telco Customer Churn — Top 22% on Kaggle](https://amira-ali.github.io/Telco-Churn-KNN-Stacking/)**  
+Kaggle competition entry predicting telecom churn on 600K+ synthetic rows. Uses KNN-anchored ground-truth signals from real IBM data, Optuna-tuned XGBoost and LightGBM, and rank-averaged ensembles. Top 22% (821st / 3,773).
 
 **[Income Prediction +$50K](https://amira-ali.github.io/Income-Prediction-50k/)**  
 Predicts whether an individual's income exceeds $50K using census data and ML classification models in R.
