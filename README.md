@@ -5,12 +5,12 @@ I enjoy working on data problems that have real-world impact.
 Background in both data analytics and software engineering. I build solutions that bridge the two.
 
 ## 🛠️ Skills
-- **Languages:** Python, SQL, R, C#, VB.NET, Java
-- **BI & Visualisation:** Power BI, Tableau, Excel, Power Automate
-- **Web:** HTML, CSS, Bootstrap
-- **Databases:** SQL Server (Views, Stored Procedures, Triggers, Authentication), Oracle (Views, Materialized Views, B-Tree/Bitmap/Function Indexing), DuckDB
-- **Cloud & Infrastructure:** Azure (VM, Containers, Databricks, Storage), Google Colab
-- **Tools:** R Markdown, Jupyter
+- **Data & Analytics:** Python, R, SQL, Power BI, Tableau, Excel  
+- **ML:** Classification, Regression, Ensemble Methods, Feature Engineering, Hyperparameter Tuning
+-** Databases:** SQL Server (Views, Stored Procedures, Triggers), Oracle (Materialized Views, Indexing)
+- **Cloud:** Azure, Databricks, Google BigQuery, Google Colab, Docker
+- **Engineering:** C#, VB.NET, Java, HTML, CSS 
+- **Tools:** Jupyter, R Markdown, Git, Power Automate, SharePoint, PowerApps, Dynamics 365
 
 ## 📌 Projects
 **[Telco Customer Churn — Top 22% on Kaggle](https://amira-ali.github.io/Telco-Churn-KNN-Stacking/)**  
