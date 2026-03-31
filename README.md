@@ -13,7 +13,7 @@ Background in both data analytics and software engineering. I build solutions th
 - **Tools:** Jupyter, R Markdown, Git, Power Automate, SharePoint, PowerApps, Dynamics 365
 
 ## 📌 Projects
-**[Telco Customer Churn — Top 22% on Kaggle](https://github.com/Amira-Ali/Telco-Churn-KNN-Stacking/blob/main/index.html)**  
+**[Telco Customer Churn — Top 22% on Kaggle](https://amira-ali.github.io/Telco-Churn-KNN-Stacking/)**  
 Kaggle competition entry predicting telecom churn on 600K+ synthetic rows. Uses KNN-anchored ground-truth signals from real IBM data, Optuna-tuned XGBoost and LightGBM, and rank-averaged ensembles. Top 22% (878 / 3,987).
 
 **[Income Prediction +$50K](https://amira-ali.github.io/Income-Prediction-50k/)**  
