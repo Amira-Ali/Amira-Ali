@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Amira Shlebik
 
-10 years in data analytics and software engineering, currently completing an MSc in Data Science at Northumbria University. I specialise in predictive social analytics — using machine learning and forecasting to understand societal problems: poverty, crime, food insecurity, and vulnerable populations. I work on public datasets where the output has real policy relevance, not just model performance.
+10 years in data analytics and software engineering, currently completing an MSc in Data Science at Northumbria University. I specialise in predictive social analytics, using machine learning and forecasting to understand societal problems: poverty, crime, food insecurity, and vulnerable populations. I work on public datasets where the output has real policy relevance, not just model performance.
 
 ## 🛠️ Skills
 - **Data & Analytics:** Python, R, SQL, Power BI, Tableau, Excel  
