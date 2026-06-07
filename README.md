@@ -1,14 +1,12 @@
 ## 👋 Hi, I'm Amira Shlebik
 
-MSc Data Science student at Northumbria University, Newcastle.  
-I enjoy working on data problems that have real-world impact.  
-Background in both data analytics and software engineering. I build solutions that bridge the two.
+10 years in data analytics and software engineering, currently completing an MSc in Data Science at Northumbria University. I specialise in predictive social analytics — using machine learning and forecasting to understand societal problems: poverty, crime, food insecurity, and vulnerable populations. I work on public datasets where the output has real policy relevance, not just model performance.
 
 ## 🛠️ Skills
 - **Data & Analytics:** Python, R, SQL, Power BI, Tableau, Excel  
 - **ML:** Classification, Regression, Ensemble Methods, Feature Engineering, Hyperparameter Tuning, TensorFlow, Keras, 1D CNN, Deep Learning, XGBoost, LightGBM, SHAP, Optuna, Stacking Ensembles, PCA.
--**Geospatial:** ArcGIS Desktop (Esri Certified), spatial joins, LSOA boundary data. 
--**Databases:** SQL Server (Views, Stored Procedures, Triggers), Oracle (Materialized Views, Indexing)
+- **Geospatial:** ArcGIS Desktop (Esri Certified), spatial joins, LSOA boundary data. 
+- **Databases:** SQL Server (Views, Stored Procedures, Triggers), Oracle (Materialized Views, Indexing)
 - **Cloud:** Azure, Databricks, Google BigQuery, Google Colab, Docker
 - **Engineering:** C#, VB.NET.
 - **Tools:** Jupyter, R Markdown, Git, Power Automate, SharePoint, PowerApps, Dynamics 365
