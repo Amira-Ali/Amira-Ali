@@ -6,10 +6,11 @@ Background in both data analytics and software engineering. I build solutions th
 
 ## 🛠️ Skills
 - **Data & Analytics:** Python, R, SQL, Power BI, Tableau, Excel  
-- **ML:** Classification, Regression, Ensemble Methods, Feature Engineering, Hyperparameter Tuning
--** Databases:** SQL Server (Views, Stored Procedures, Triggers), Oracle (Materialized Views, Indexing)
+- **ML:** Classification, Regression, Ensemble Methods, Feature Engineering, Hyperparameter Tuning, TensorFlow, Keras, 1D CNN, Deep Learning, XGBoost, LightGBM, SHAP, Optuna, Stacking Ensembles, PCA.
+-**Geospatial:** ArcGIS Desktop (Esri Certified), spatial joins, LSOA boundary data. 
+-**Databases:** SQL Server (Views, Stored Procedures, Triggers), Oracle (Materialized Views, Indexing)
 - **Cloud:** Azure, Databricks, Google BigQuery, Google Colab, Docker
-- **Engineering:** C#, VB.NET, Java, HTML, CSS 
+- **Engineering:** C#, VB.NET.
 - **Tools:** Jupyter, R Markdown, Git, Power Automate, SharePoint, PowerApps, Dynamics 365
 
 ## 📌 Projects
@@ -20,7 +21,7 @@ Scored all 33,755 English LSOAs for child poverty risk using XGBoost (CV R²=0.8
 Kaggle competition entry predicting telecom churn on 600K+ synthetic rows. Uses KNN-anchored ground-truth signals from real IBM data, Optuna-tuned XGBoost and LightGBM, and rank-averaged ensembles. Top 22% (878 / 3,987).
 
 **[ECG Heartbeat Classification (Deep Learning)](https://amira-ali.github.io/deep-learning-ecg-classification/)**
-Built a 1D CNN in TensorFlow/Keras to classify ECG signals across two PhysioNet datasets (109K MIT-BIH beats, 5-class; 14.5K PTB records, binary). Achieved AUC-PR 0.9439 (MIT-BIH) and 0.9995 (PTB), outperforming Logistic Regression and Random Forest baselines. Designed a cluster-based GroupShuffleSplit strategy using MiniBatchKMeans to prevent patient-level data leakage where no patient IDs existed. Tuned dropout, learning rate, and batch size via systematic grid search.
+ECG datasets contain multiple recordings per patient — but the PTB dataset has no patient IDs. A random split leaks patient identity into the test set, and a model that learns the patient, not the condition, is worthless in practice. Used MiniBatchKMeans to proxy patient groups and GroupShuffleSplit to separate them. Result: no leakage, <0.3% class balance gap, AUC-PR 0.9995 (PTB) and 0.9439 (MIT-BIH).
 
 **[Income Prediction +$50K](https://amira-ali.github.io/Income-Prediction-50k/)**  
 Predicts whether an individual's income exceeds $50K using census data and ML classification models in R.
