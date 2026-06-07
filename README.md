@@ -13,8 +13,14 @@ Background in both data analytics and software engineering. I build solutions th
 - **Tools:** Jupyter, R Markdown, Git, Power Automate, SharePoint, PowerApps, Dynamics 365
 
 ## 📌 Projects
+**[Child Poverty Risk Scoring - England](https://amira-ali.github.io/child-poverty-risk-scoring/)**
+Scored all 33,755 English LSOAs for child poverty risk using XGBoost (CV R²=0.8628) and SHAP interpretability. Identified ~4,200 hidden-risk neighbourhoods outside standard deprivation funding thresholds and tracked worsening trends across 5 years of CiLIF data. Validated findings against UC, PIP, Housing Benefit, and police-recorded crime records. Built an interactive Tableau dashboard for Local Authority-level exploration.
+
 **[Telco Customer Churn — Top 22% on Kaggle](https://amira-ali.github.io/Telco-Churn-KNN-Stacking/)**  
 Kaggle competition entry predicting telecom churn on 600K+ synthetic rows. Uses KNN-anchored ground-truth signals from real IBM data, Optuna-tuned XGBoost and LightGBM, and rank-averaged ensembles. Top 22% (878 / 3,987).
+
+**[ECG Heartbeat Classification (Deep Learning)](https://amira-ali.github.io/deep-learning-ecg-classification/)**
+Built a 1D CNN in TensorFlow/Keras to classify ECG signals across two PhysioNet datasets (109K MIT-BIH beats, 5-class; 14.5K PTB records, binary). Achieved AUC-PR 0.9439 (MIT-BIH) and 0.9995 (PTB), outperforming Logistic Regression and Random Forest baselines. Designed a cluster-based GroupShuffleSplit strategy using MiniBatchKMeans to prevent patient-level data leakage where no patient IDs existed. Tuned dropout, learning rate, and batch size via systematic grid search.
 
 **[Income Prediction +$50K](https://amira-ali.github.io/Income-Prediction-50k/)**  
 Predicts whether an individual's income exceeds $50K using census data and ML classification models in R.
